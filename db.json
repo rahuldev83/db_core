@@ -4,19 +4,19 @@
       "id": 1,
       "title": "Post 1",
        "price" : 100,
-      "image" : require('../assets/jacket.jpg')
+       "image" : "../assets/jacket.jpg"
     },
     {
       "id": 2,
       "title": "Post 2",
-         "price" : 200,
-      "image" : require('../assets/jacket.jpg')
+      "price" : 200,
+      "image" : "../assets/couch.jpg"
     },
     {
       "id": 3,
       "title": "Post 3",
-         "price" : 300,
-      "image" : require('../assets/jacket.jpg')
+       "price" : 300,
+      "image" : "../assets/shoes.jpg"
     }
   ]
 }
