@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Post 1",
        "price" : 100,
-       "image" : 'require("../assets/jacket.jpg")''
+       "image" : 'require("../assets/jacket.jpg")'
     },
     {
       "id": 2,
