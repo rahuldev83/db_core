@@ -26,6 +26,15 @@
       "categoryId":5,
       "userId":2,
       "location":{"latitude":37.78825,"longitude":-122.4324}
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+       "price" : 360,
+      "images" : [{"url" : "https://picsum.photos/id/1004/200/300"}],
+      "categoryId":2,
+      "userId":2,
+      "location":{"latitude":37.78825,"longitude":-122.4324}
     }
   ]
 }
