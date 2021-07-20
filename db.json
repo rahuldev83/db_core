@@ -1,5 +1,31 @@
 {
- "listings" : [{"id":201,"title":"Red jacket","images":[{"url":"jacket1_full.jpg","thumbnailUrl":"jacket1_thumb.jpg"}],"price":100,"categoryId":5,"userId":1,"location":{"latitude":37.78825,"longitude":-122.4324}},
- {"id":3,"title":"Gray couch in a great condition","images":[{"url":"couch2_full.jpg","thumbnailUrl":"couch2_thumb.jpg"}],"categoryId":1,"price":1200,"userId":2,"location":{"latitude":37.78825,"longitude":-122.4324}},
- {"id":1,"title":"Room & Board couch (great condition) - delivery included","description":"I'm selling my furniture at a discount price. Pick up at Venice. DM me asap.","images":[{"url":"couch1_full.jpg","thumbnailUrl":"couch1_thumb.jpg"}],"price":1000,"categoryId":1,"userId":1,"location":{"latitude":37.78825,"longitude":-122.4324}}]
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
