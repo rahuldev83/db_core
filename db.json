@@ -4,19 +4,19 @@
       "id": 1,
       "title": "Post 1",
        "price" : 100,
-       "image" : "../assets/jacket.jpg"
+       "image" : "require('../assets/jacket.jpg')"
     },
     {
       "id": 2,
       "title": "Post 2",
       "price" : 200,
-      "image" : "../assets/couch.jpg"
+      "image" : "require('../assets/couch.jpg')"
     },
     {
       "id": 3,
       "title": "Post 3",
        "price" : 300,
-      "image" : "../assets/shoes.jpg"
+      "image" : "require('../assets/shoes.jpg')"
     }
   ]
 }
